@@ -94,11 +94,20 @@ p, a, li
 	font-size: 14pt;
 }
 
-h1, h2, h3
+h1, h2
 {
 	font-family: 'MontserratBold', sans-serif;
 	font-size: 14pt;
 }
+
+h3
+{
+	font-family: 'MontserratBold', sans-serif;
+	font-size: 12pt;
+	margin-bottom: 2px;
+	margin-top: 5px;
+}
+
 .picture-frame
 {
 	position: fixed;   
